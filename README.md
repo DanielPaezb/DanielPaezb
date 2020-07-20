@@ -1,5 +1,5 @@
 <h1 align='center'>
-    <a href="https://danielpaez.site/"><img src="./img/banner.png" alt="Daniel Páez" width="900" height="500"></a>
+    <a href="https://danielpaez.site/"><img src=".../img/banner.png" alt="Daniel Páez" width="900" height="500"></a>
 </h1>
 
 <hr/>
