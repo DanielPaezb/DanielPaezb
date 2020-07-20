@@ -10,7 +10,7 @@
 <!-- Habilities shields -->
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/HTML5-2.4%25-blue" alt="html-porcent"> <!--Shield HTML5 porcent-->
+    <img src="https://img.shields.io/badge/HTML5-80%25-blue" alt="html-porcent"> <!--Shield HTML5 porcent-->
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/CSS3-70%25-blue" alt="css3-porcent"> <!--Shield CSS3 porcent-->
