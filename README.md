@@ -44,4 +44,11 @@
     <img src="https://img.shields.io/badge/Learning Django-Basic Now-blue" alt="electronic"> <!--Shield Django porcent-->
   </a>
 </p>
+<hr />
+<h2 align='center'>Projects and developments :checkered_flag:</h2> 
+<ul>
+    <li><a href="https://senaceet.github.io/gui-proyecto-logbook/">Logbook CRUD</li> 
+    <li><a href="https://danielpaezb.github.io/netflix-clone/">Educational Clone Netflix</li> 
+    <li><a href="https://senaceet2020.000webhostapp.com/">Study Platform Russian Languaje</li>
+</ul>
 
