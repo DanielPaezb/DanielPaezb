@@ -1,7 +1,6 @@
 <h1 align='center'>
     <a href="https://danielpaez.site/"><img src="img/banner.png" alt="Daniel Páez" width="900" height="500"></a>
 </h1>
-
 <hr/>
 <p align='center'> I'm Daniel Páez, I'm from Colombia, I'm 25 years old and I'm Electronic Engineer and Software Development Technician, 
      I like to learn every day new technologies and new forms to do something, I am passionate about programming 
