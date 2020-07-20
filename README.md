@@ -1,5 +1,5 @@
 <h1 align='center'>
-    <a href="https://i.ibb.co/z68wdcr/banner.png" alt="Daniel Páez" width="900" height="500"></a>
+    <a href="https://danielpaez.site/"><img src="https://i.ibb.co/z68wdcr/banner.png" alt="Daniel Páez" width="900" height="500"></a>
 </h1>
 <hr/>
 <p align='center'> I'm Daniel Páez, I'm from Colombia, I'm 25 years old and I'm Electronic Engineer and Software Development Technician, 
