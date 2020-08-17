@@ -50,5 +50,7 @@
     <li><a href="https://senaceet.github.io/gui-proyecto-logbook/">Logbook CRUD</li> 
     <li><a href="https://danielpaezb.github.io/netflix-clone/">Educational Clone Netflix</li> 
     <li><a href="https://senaceet2020.000webhostapp.com/">Study Platform Russian Languaje</li>
+    <li><a href="https://react-search-img.vercel.app/">Search images from Pyxibay API [React - APP]</li>    
+        
 </ul>
 
