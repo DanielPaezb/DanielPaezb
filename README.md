@@ -47,7 +47,7 @@
 <hr />
 <h2 align='center'>Projects and developments :checkered_flag:</h2> 
 <ul>
-    <li><a href="https://https://log-book-landing.vercel.app/">Logbook CRUD</li> 
+    <li><a href="https://log-book-landing.vercel.app/">Logbook CRUD</li> 
     <li><a href="https://danielpaezb.github.io/netflix-clone/">Educational Clone Netflix</li> 
     <li><a href="https://senaceet2020.000webhostapp.com/">Study Platform Russian Languaje</li>
     <li><a href="https://react-search-img.vercel.app/">Search images from Pyxibay API [React - APP]</li>  
