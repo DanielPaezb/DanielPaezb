@@ -47,6 +47,9 @@
 <hr />
 <h2 align='center'>Projects and developments :checkered_flag:</h2> 
 <ul>
+    
+    
+    <li><a href="https://gastos-react-app.vercel.app/">Budget [React - APP]</li> 
     <li><a href="https://react-citas.vercel.app/">Create an appointment [React - APP]</li> 
     <li><a href="https://react-search-img.vercel.app/">Search images from Pyxibay API [React - APP]</li>  
     <li><a href="https://simulator-twitter.vercel.app/">Twitter comment simulator [React - APP]</li>
