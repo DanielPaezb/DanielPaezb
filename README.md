@@ -4,7 +4,8 @@
 <hr/>
 <p align='center'> I'm Daniel Páez, I'm from Colombia, I'm 25 years old and I'm Electronic Engineer and Software Development Technician, 
      I like to learn every day new technologies and new forms to do something, I am passionate about programming 
-     and writing code.</p>
+     and writing code, when I was child, I asked me: ¿How works Internet, electronic circuits and why Mathematics are beautifull? 
+     I said: I love code, I Love electronic, I love World</p>
 <hr/>
 <h2 align='center'>My skills :computer:</h2>
 <!-- Habilities shields -->
