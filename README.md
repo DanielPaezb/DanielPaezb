@@ -44,6 +44,13 @@
     <a href="#">
     <img src="https://img.shields.io/badge/Learning Django-Basic Now-blue" alt="electronic"> <!--Shield Django porcent-->
   </a>
+      <a href="#">
+    <img src="https://img.shields.io/badge/Arduino-70%25-blue" alt="Arduino"> <!-- Shield Arduino-->
+  </a>
+    </a>
+      <a href="#">
+    <img src="https://img.shields.io/badge/Russian-70%25-green" alt="Arduino"> <!-- Shield Russian-->
+  </a>
 </p>
 <hr />
 <h2 align='center'>Projects and developments :checkered_flag:</h2> 
