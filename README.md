@@ -55,6 +55,7 @@
 <hr />
 <h2 align='center'>Projects and developments :checkered_flag:</h2> 
 <ul>
+    <li><a href=" https://clone-spotify.vercel.app/">Landing Page Spotify</li
     <li><a href="https://landing-page-five-phi.vercel.app/">Landing Page</li>
     <li><a href="https://blog-bootstrap4.vercel.app/">Porfolio Boostrap 4</li>
     <li><a href="https://gastos-react-app.vercel.app/">Budget [React - APP]</li> 
