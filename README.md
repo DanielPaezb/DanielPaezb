@@ -1,6 +1,11 @@
-<h1 align='center'>
-    <a href="https://danielpaez.site/"><img src="https://i.ibb.co/z68wdcr/banner.png" alt="Daniel Páez" width="900" height="500"></a>
-</h1>
+<h1></h1>
+
+
+<p align= 'center'>
+   <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=danielPaezb&show_icons=true&theme=prussian&count_private=true)" alt="GitHub Stats">
+  </a>
+</p>
 <hr/>
 <p align='center'> I'm Daniel Páez, I'm from Colombia, I'm 25 years old and I'm Electronic Engineer and Software Development Technician, 
      I like to learn every day new technologies and new forms to do something, I am passionate about programming 
@@ -68,4 +73,6 @@
     <li><a href="https://danielpaezb.github.io/netflix-clone/">Educational Clone Netflix</li> 
     <li><a href="https://senaceet2020.000webhostapp.com/">Study Platform Russian Languaje</li>  
 </ul>
+
+
 
